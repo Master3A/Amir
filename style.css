@@ -1,0 +1,12 @@
+#valentineQuestion {
+    max-width: 600px;
+    text-align: center;
+    word-wrap: break-word;
+  }
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+    
